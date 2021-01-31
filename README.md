@@ -1,2 +1,2 @@
-# IBM-ML-Python
-IBM - Machine Learning with Python
+# Machine learning with Python
+https://www.coursera.org/learn/machine-learning-with-python
